@@ -1,3 +1,3 @@
 **Exercise-Tracker**
 
-People can create account and tracker there exercises in this react app
+Welcome to our new Excercise tracker, here people can create account and tracker there exercises in this react app
